@@ -1,16 +1,13 @@
-## Hi there 👋
+# Mohammed Alibhai
 
-<!--
-**Unluckyathecking/Unluckyathecking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Year 12 student in Surrey, UK. I build systems software, mostly in Go, Rust, and Python.
 
-Here are some ideas to get you started:
+## Current work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**fallow:** turns spare capacity on an organisation's desktops into a governed AI inference and batch fabric. Pre-alpha, end-to-end integration suite, sub-300ms preemption target.
+
+**crucible:** clone-and-adapt framework for metered API products. Go gateway, Stripe metered billing, 249 tests.
+
+First-author research on prompt-injection detection for LLM applications, targeting SaTML 2027.
+
+[LinkedIn](https://linkedin.com/malibhai)
