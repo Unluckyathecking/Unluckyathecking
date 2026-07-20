@@ -10,4 +10,4 @@ Year 12 student in Surrey, UK. I build systems software, mostly in Go, Rust, and
 
 First-author research on prompt-injection detection for LLM applications, targeting SaTML 2027.
 
-[LinkedIn](https://linkedin.com/malibhai)
+[LinkedIn](https://www.linkedin.com/in/malibhai)
