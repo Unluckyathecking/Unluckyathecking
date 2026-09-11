@@ -1,6 +1,6 @@
 # Mohammed Alibhai
 
-Year 12 student in Surrey, UK. I build systems software, mostly in Go, Rust, and Python.
+Year 13 student in Surrey, UK, interested in AI/ML, agentic engineering and hardware-software systems. Much of my software project work uses AI coding agents. I'm developing my Python skills through practical projects related to data science and machine learning.
 
 ## Current work
 
