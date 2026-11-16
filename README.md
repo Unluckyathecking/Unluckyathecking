@@ -4,7 +4,7 @@ Year 13 student in Surrey, UK, interested in AI/ML, agentic engineering and hard
 
 ## Current work
 
-**gibc-v2-lm:** a 49.8M-parameter language model trained from scratch in 8.6 H100-hours for GIBC V2 Track 01. Independently verified on the [Open SLM Leaderboard](https://huggingface.co/spaces/AxiomicLabs/Open_SLM_Leaderboard): #2 under 50M parameters and #1 on ARC-Easy. [Weights](https://huggingface.co/Unluckyexe/gibc-v2-lm), [code](https://github.com/Unluckyathecking/gibc-v2-lm).
+**gibc-v2-lm:** a 49.8M-parameter language model trained from scratch in 8.6 H100-hours for GIBC V2 Track 01. Independently verified on the [Open SLM Leaderboard](https://huggingface.co/spaces/AxiomicLabs/Open_SLM_Leaderboard): #2 under 50M parameters and #1 on ARC-Easy at the time of submission. [Weights](https://huggingface.co/Unluckyexe/gibc-v2-lm), [code](https://github.com/Unluckyathecking/gibc-v2-lm).
 
 **Unipass:** research on converting pretrained LLMs to emit a whole output in one forward pass, no token loop. Private for now.
 
